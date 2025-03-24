@@ -1,5 +1,5 @@
 package Java_Tasks;
-
+//FizzBuzzProgram
 public class Task_FizzBuzzTest {
     public static void main(String[] args) {
         int N=100;
@@ -15,7 +15,7 @@ public class Task_FizzBuzzTest {
             }
             else{
                 System.out.println(i);
-            }
+            }F
 
         }
     }
