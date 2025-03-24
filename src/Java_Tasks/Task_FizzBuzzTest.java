@@ -15,7 +15,7 @@ public class Task_FizzBuzzTest {
             }
             else{
                 System.out.println(i);
-            }F
+            }
 
         }
     }
