@@ -2,8 +2,8 @@ package Java_Tasks;
 
 public class Task_ArraySecondLargestNumber {
     public static void main(String[] args) {
-        //int[] a = {34, 56, 87, 90, 26, 13, 55};
-        int[] a = {25, 14, 56, 15, 36, 56, 77, 18, 29, 49};
+        int[] a = {34, 56, 87, 90, 26, 13, 55};
+        //int[] a = {25, 14, 56, 15, 36, 56, 77, 18, 29, 49};
 
         int max = 0;
         int sec_large = 0;
