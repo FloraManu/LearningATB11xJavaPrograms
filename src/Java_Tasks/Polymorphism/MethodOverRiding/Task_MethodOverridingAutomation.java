@@ -1,4 +1,4 @@
-package Java_Tasks.MethodOverRiding;
+package Java_Tasks.Polymorphism.MethodOverRiding;
 
 public class Task_MethodOverridingAutomation {
     public static void main(String[] args)

@@ -1,4 +1,4 @@
-package Java_Tasks.MethodOverloading;
+package Java_Tasks.Polymorphism;
 
 public class Task_MOverloading {
     public static void main(String[] args)
